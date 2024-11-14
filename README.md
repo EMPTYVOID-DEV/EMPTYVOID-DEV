@@ -69,5 +69,3 @@ const aimen = {
   challenge: "Learning something new every day"
 };
 ```
-
-⭐️ From [keskasilm](https://github.com/keskasilm)
